@@ -1,1 +1,1 @@
-* [slides](athowes.github.io/bnp/slides.pdf)
+* [slides]((https://athowes.github.io/bnp/slides.pdf)
